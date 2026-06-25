@@ -1,0 +1,6 @@
+# Documentos fuente personales — NO publicar en GitHub
+CV_Luis_Alfonso_Salazar_Vaca.pdf
+*.pdf
+
+# Carpeta fuente de certificados (solo raíz; ya convertida a PNG en assets/)
+/certificados/
