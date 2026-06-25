@@ -269,12 +269,8 @@ Magíster en Inteligencia Artificial con amplia experiencia **liderando innovaci
   <a href="mailto:luissalazarvaca1986@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- TODO: reemplaza la URL por tu perfil real de LinkedIn -->
-  <a href="https://www.linkedin.com/in/luis-alfonso-salazar-vaca">
+  <a href="https://www.linkedin.com/in/luis-alfonso-salazar-vaca-a7377b57">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/pasthortown">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -282,7 +278,7 @@ Magíster en Inteligencia Artificial con amplia experiencia **liderando innovaci
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pasthortown&show_icons=true&theme=transparent&hide_border=true" alt="Estadísticas de GitHub" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasthortown&layout=compact&theme=transparent&hide_border=true" alt="Lenguajes más usados" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasthortown&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=600" alt="Lenguajes más usados" height="160"/>
 </p>
 
 <p align="center"><em>"Resolución estructurada de problemas complejos y liderazgo basado en empoderamiento, aprendizaje continuo y valor medible para el negocio."</em></p>
