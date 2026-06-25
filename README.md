@@ -240,7 +240,7 @@ Magíster en Inteligencia Artificial con amplia experiencia **liderando innovaci
 </details>
 
 <details>
-<summary><b>🌍 Inclusión, Equidad &amp; Sensibilización</b> · 5 certificados</summary>
+<summary><b>🌍 Inclusión, Equidad &amp; Sensibilización</b> · 7 certificados</summary>
 <br/>
 <p>Atención a personas con discapacidad · Sensibilización ante discapacidades · Pluralidad y Movilidad Humana · Transversalización del Enfoque de Género · Institución Segura y Libre de Violencia.</p>
 <p align="center">
