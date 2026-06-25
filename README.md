@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/Observabilidad-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" alt="Observabilidad"/>
 </p>
 
+<p align="center">
+  <img src="assets/insignias-dynatrace.png" alt="Insignias Dynatrace" width="100%"/>
+</p>
+
 ---
 
 ## 🧠 Sobre mí
