@@ -45,7 +45,7 @@ Magíster en Inteligencia Artificial con amplia experiencia **liderando innovaci
 
 ---
 
-## 💼 Experiencia
+## 💼 Experiencia (Últimos 5)
 
 | Rol | Organización | Periodo |
 |-----|--------------|---------|
