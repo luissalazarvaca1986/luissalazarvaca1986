@@ -17,6 +17,33 @@
   <img src="assets/insignias-dynatrace.png" alt="Insignias Dynatrace" width="100%"/>
 </p>
 
+<h3 align="center">🔗 Enlaces de interés</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <a href="https://www.linkedin.com/in/luis-alfonso-salazar-vaca-a7377b57">
+        <img src="assets/qr/linkedin.png" width="150" alt="QR LinkedIn"/>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/luis-alfonso-salazar-vaca-a7377b57">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center" width="220">
+      <a href="https://drive.google.com/drive/folders/1j_QeA-5OyDwoz6DfSg7A_AjGJY93TeKP">
+        <img src="assets/qr/certificados.png" width="150" alt="QR Certificados"/>
+      </a>
+      <br/>
+      <a href="https://drive.google.com/drive/folders/1j_QeA-5OyDwoz6DfSg7A_AjGJY93TeKP">
+        <img src="https://img.shields.io/badge/Certificados-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificados"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>📱 Escanea los códigos QR o haz clic en los botones.</sub></p>
+
 ---
 
 ## 🧠 Sobre mí
@@ -45,7 +72,7 @@ Magíster en Inteligencia Artificial con amplia experiencia **liderando innovaci
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
 
-**Áreas de dominio:** Inteligencia de Negocios · Programación Full-Stack · Metodologías Ágiles · Infraestructura Cloud y On-Premise · Bases de datos SQL y NoSQL · Contenerización · Gestión de Servicios · Observabilidad · Inteligencia Artificial
+**Áreas de dominio:** Inteligencia de Negocios · Programación Full-Stack · Metodologías Ágiles · Infraestructura Cloud y On-Premise · Bases de datos SQL y NoSQL · Contenerización · Gestión de Servicios · Observabilidad · Ciberseguridad · Inteligencia Artificial
 
 ---
 
@@ -281,8 +308,8 @@ Magíster en Inteligencia Artificial con amplia experiencia **liderando innovaci
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasthortown&show_icons=true&theme=transparent&hide_border=true" alt="Estadísticas de GitHub" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasthortown&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=600" alt="Lenguajes más usados" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luissalazarvaca1986&show_icons=true&theme=transparent&hide_border=true" alt="Estadísticas de GitHub" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissalazarvaca1986&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=600" alt="Lenguajes más usados" height="160"/>
 </p>
 
 <p align="center"><em>"Resolución estructurada de problemas complejos y liderazgo basado en empoderamiento, aprendizaje continuo y valor medible para el negocio."</em></p>
