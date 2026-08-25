@@ -4,3 +4,6 @@ CV_Luis_Alfonso_Salazar_Vaca.pdf
 
 # Carpeta fuente de certificados (solo raíz; ya convertida a PNG en assets/)
 /certificados/
+
+# Configuración local de Claude Code
+.claude/
