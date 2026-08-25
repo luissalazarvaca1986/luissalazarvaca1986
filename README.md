@@ -13,8 +13,28 @@
   <img src="https://img.shields.io/badge/Observabilidad-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" alt="Observabilidad"/>
 </p>
 
+<h3 align="center">📊 Observabilidad · Dynatrace</h3>
+
 <p align="center">
-  <img src="assets/insignias-dynatrace.png" alt="Insignias Dynatrace" width="100%"/>
+  <img src="assets/insignias/dynatrace/administration-professional.png" height="86" alt="Dynatrace Administration Professional"/>
+  <img src="assets/insignias/dynatrace/implementation-professional.png" height="86" alt="Dynatrace Implementation Professional"/>
+  <img src="assets/insignias/dynatrace/associate.png" height="86" alt="Dynatrace Platform Associate"/>
+  <img src="assets/insignias/dynatrace/essentials.png" height="86" alt="Dynatrace Essentials"/>
+  <img src="assets/insignias/dynatrace/partner-sales-specialist.png" height="86" alt="Dynatrace Partner Sales Specialist"/>
+  <img src="assets/insignias/dynatrace/partner-sales.png" height="86" alt="Dynatrace Partner Sales"/>
+  <img src="assets/insignias/dynatrace/customer-success.png" height="86" alt="Dynatrace Partner Customer Success"/>
+  <img src="assets/insignias/dynatrace/services-practitioner.png" height="86" alt="Dynatrace Partner Services Practitioner"/>
+  <img src="assets/insignias/dynatrace/services-management.png" height="86" alt="Dynatrace Partner Services Management"/>
+  <img src="assets/insignias/dynatrace/beginner.png" height="86" alt="Dynatrace Partner Beginner"/>
+</p>
+
+<h3 align="center">🛡️ Ciberseguridad · SentinelOne</h3>
+
+<p align="center">
+  <img src="assets/insignias/sentinelone/partner-cloud-security.jpeg" height="96" alt="SentinelOne Cloud Security Partner"/>
+  <img src="assets/insignias/sentinelone/pre-sales-expert.jpeg" height="96" alt="SentinelOne Pre-Sales Expert"/>
+  <img src="assets/insignias/sentinelone/pre-sales-professional.jpeg" height="96" alt="SentinelOne Pre-Sales Professional"/>
+  <img src="assets/insignias/sentinelone/sales-professional.jpeg" height="96" alt="SentinelOne Sales Professional"/>
 </p>
 
 <h3 align="center">🔗 Enlaces de interés</h3>
