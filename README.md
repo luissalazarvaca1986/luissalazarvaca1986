@@ -15,9 +15,119 @@
 
 <h3 align="center">🤖 Inteligencia Artificial · Claude (Anthropic)</h3>
 
-<p align="center">
-  <img src="assets/insignias/claude/insignias-claude.png" width="900" alt="Insignias de Claude (Anthropic) - 21 certificaciones"/>
-</p>
+<table align="center">
+    <tr>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/claude-con-google-cloud-vertex-ai.png" title="Claude with Google Cloud's Vertex AI">
+          <img src="assets/insignias/claude/claude-con-google-cloud-vertex-ai.png" width="110" alt="Claude with Google Cloud's Vertex AI"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/claude-con-amazon-bedrock.png" title="Claude with Amazon Bedrock">
+          <img src="assets/insignias/claude/claude-con-amazon-bedrock.png" width="110" alt="Claude with Amazon Bedrock"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/building-with-the-claude-api.png" title="Building with the Claude API">
+          <img src="assets/insignias/claude/building-with-the-claude-api.png" width="110" alt="Building with the Claude API"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/ai-fluency-for-students.png" title="AI Fluency for students">
+          <img src="assets/insignias/claude/ai-fluency-for-students.png" width="110" alt="AI Fluency for students"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/ai-fluency-for-small-businesses.png" title="AI Fluency for Small Businesses">
+          <img src="assets/insignias/claude/ai-fluency-for-small-businesses.png" width="110" alt="AI Fluency for Small Businesses"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/ai-fluency-for-nonprofits.png" title="AI Fluency for nonprofits">
+          <img src="assets/insignias/claude/ai-fluency-for-nonprofits.png" width="110" alt="AI Fluency for nonprofits"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/ai-fluency-for-pk12-educators.png" title="AI Fluency for pK-12 Educators">
+          <img src="assets/insignias/claude/ai-fluency-for-pk12-educators.png" width="110" alt="AI Fluency for pK-12 Educators"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/ai-fluency-for-educators.png" title="AI Fluency for educators">
+          <img src="assets/insignias/claude/ai-fluency-for-educators.png" width="110" alt="AI Fluency for educators"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/ai-fluency-for-creative-work.png" title="AI Fluency for Creative Work">
+          <img src="assets/insignias/claude/ai-fluency-for-creative-work.png" width="110" alt="AI Fluency for Creative Work"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/ai-fluency-for-builders.png" title="AI Fluency for Builders">
+          <img src="assets/insignias/claude/ai-fluency-for-builders.png" width="110" alt="AI Fluency for Builders"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/deploying-claude-enterprise.png" title="Deploying Claude Enterprise with Confidence">
+          <img src="assets/insignias/claude/deploying-claude-enterprise.png" width="110" alt="Deploying Claude Enterprise with Confidence"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/model-context-protocol-advanced-topics.png" title="Model Context Protocol: Advanced Topics">
+          <img src="assets/insignias/claude/model-context-protocol-advanced-topics.png" width="110" alt="Model Context Protocol: Advanced Topics"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/introduction-to-model-context-protocol.png" title="Introduction to Model Context Protocol">
+          <img src="assets/insignias/claude/introduction-to-model-context-protocol.png" width="110" alt="Introduction to Model Context Protocol"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/claude-code-in-action.png" title="Claude Code in Action">
+          <img src="assets/insignias/claude/claude-code-in-action.png" width="110" alt="Claude Code in Action"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/claude-platform-101.png" title="Claude Platform 101">
+          <img src="assets/insignias/claude/claude-platform-101.png" width="110" alt="Claude Platform 101"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/introduction-to-claude-cowork.png" title="Introduction to Claude Cowork">
+          <img src="assets/insignias/claude/introduction-to-claude-cowork.png" width="110" alt="Introduction to Claude Cowork"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/claude-code-101.png" title="Claude Code 101">
+          <img src="assets/insignias/claude/claude-code-101.png" width="110" alt="Claude Code 101"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/claude-101.png" title="Claude 101">
+          <img src="assets/insignias/claude/claude-101.png" width="110" alt="Claude 101"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/teaching-ai-fluency.png" title="Teaching AI Fluency">
+          <img src="assets/insignias/claude/teaching-ai-fluency.png" width="110" alt="Teaching AI Fluency"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/ai-capabilities-and-limitations.png" title="AI Capabilities and Limitations">
+          <img src="assets/insignias/claude/ai-capabilities-and-limitations.png" width="110" alt="AI Capabilities and Limitations"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="assets/insignias/claude/ai-fluency-framework-and-foundations.png" title="AI Fluency: Framework & Foundations">
+          <img src="assets/insignias/claude/ai-fluency-framework-and-foundations.png" width="110" alt="AI Fluency: Framework & Foundations"/>
+        </a>
+      </td>
+    </tr>
+</table>
 
 <h3 align="center">📊 Observabilidad · Dynatrace</h3>
 
