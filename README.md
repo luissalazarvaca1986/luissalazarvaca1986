@@ -194,6 +194,25 @@ Magíster en Inteligencia Artificial con amplia experiencia **liderando innovaci
 
 ---
 
+## 📖 Mis Libros
+
+Escribo y publico mis propios libros, y los comparto de forma abierta en GitHub. **Te invito a leerlos y, sobre todo, a comentarlos:** tu opinión sobre lo que funciona y lo que no es lo que hace crecer la siguiente publicación.
+
+### 👉 [Mis Libros — repositorio de publicaciones](https://github.com/luissalazarvaca1986/Mis-Libros)
+
+Ahí subo **periódicamente** cada nueva publicación en PDF, lista para leer o descargar.
+
+| Libro | Leer el libro | Código del libro |
+|-------|---------------|------------------|
+| **Invadiendo Espacios** | [PDF](https://github.com/luissalazarvaca1986/Mis-Libros/blob/main/Invadiendo%20Espacios.pdf) | [Invadiendo-espacios](https://github.com/luissalazarvaca1986/Invadiendo-espacios) |
+| **Pensando Fuera de la Caja** | [PDF](https://github.com/luissalazarvaca1986/Mis-Libros/blob/main/Pensando%20Fuera%20de%20la%20Caja.pdf) | [Pensando-fuera-de-la-caja](https://github.com/luissalazarvaca1986/Pensando-fuera-de-la-caja) |
+
+- 💬 **Deja tu comentario** en las [Discusiones del repositorio](https://github.com/luissalazarvaca1986/Mis-Libros/discussions) — qué te pareció, qué mejorarías, qué te gustaría leer después.
+- 💻 **El código de cada libro** vive en su propio repositorio, con el mismo nombre del libro. Clónalo y experimenta mientras lees.
+- 🔔 Dale **Watch** al repositorio para enterarte cuando publique algo nuevo.
+
+---
+
 ## 🛠️ Stack tecnológico
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
