@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/Observabilidad-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" alt="Observabilidad"/>
 </p>
 
+<h3 align="center">🤖 Inteligencia Artificial · Claude (Anthropic)</h3>
+
+<p align="center">
+  <img src="assets/insignias/claude/insignias-claude.png" width="900" alt="Insignias de Claude (Anthropic) - 21 certificaciones"/>
+</p>
+
 <h3 align="center">📊 Observabilidad · Dynatrace</h3>
 
 <p align="center">
