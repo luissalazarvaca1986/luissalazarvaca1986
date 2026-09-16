@@ -231,11 +231,12 @@ Ahí subo **periódicamente** cada nueva publicación en PDF, lista para leer o 
 
 ---
 
-## 💼 Experiencia (Últimos 5)
+## 💼 Experiencia (Últimos 6)
 
 | Rol | Organización | Periodo |
 |-----|--------------|---------|
-| **Gerente de Observabilidad e IA** | Compuequip DOS S.A. | 2026 – Presente |
+| **Experto en Inteligencia Artificial** | Banco Pichincha | Agosto 2026 – Presente |
+| **Gerente de Observabilidad e IA** | Compuequip DOS S.A. | Abril 2026 – Agosto 2026 |
 | **Subgerente de Desarrollo de Software** | Grupo KFC | 2022 – 2026 |
 | **Arquitecto de Infraestructura de Nube** | Grupo KFC | 2021 – 2022 |
 | **Docente – Ingeniería en Sistemas** | Universidad Iberoamericana | 2019 – 2021 |
