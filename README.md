@@ -463,9 +463,4 @@ Ahí subo **periódicamente** cada nueva publicación en PDF, lista para leer o 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luissalazarvaca1986&show_icons=true&theme=transparent&hide_border=true" alt="Estadísticas de GitHub" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissalazarvaca1986&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=600" alt="Lenguajes más usados" height="160"/>
-</p>
-
 <p align="center"><em>"Resolución estructurada de problemas complejos y liderazgo basado en empoderamiento, aprendizaje continuo y valor medible para el negocio."</em></p>
