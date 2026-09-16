@@ -235,7 +235,7 @@ Ahí subo **periódicamente** cada nueva publicación en PDF, lista para leer o 
 
 | Rol | Organización | Periodo |
 |-----|--------------|---------|
-| **Experto en Inteligencia Artificial** | Banco Pichincha | Agosto 2026 – Presente |
+| **Experto en Inteligencia Artificial** | Banco Pichincha | Septiembre 2026 – Presente |
 | **Gerente de Observabilidad e IA** | Compuequip DOS S.A. | Abril 2026 – Agosto 2026 |
 | **Subgerente de Desarrollo de Software** | Grupo KFC | 2022 – 2026 |
 | **Arquitecto de Infraestructura de Nube** | Grupo KFC | 2021 – 2022 |
