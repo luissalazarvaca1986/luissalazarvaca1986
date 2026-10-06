@@ -144,6 +144,13 @@
   <img src="assets/insignias/dynatrace/beginner.png" height="86" alt="Dynatrace Partner Beginner"/>
 </p>
 
+<h3 align="center">☁️ Cloud · Microsoft</h3>
+
+<p align="center">
+  <img src="assets/insignias/microsoft/azure-fundamentals.png" height="96" alt="Microsoft Certified: Azure Fundamentals"/>
+  <img src="assets/insignias/microsoft/certified-associate.png" height="96" alt="Microsoft Certified: Associate"/>
+</p>
+
 <h3 align="center">🛡️ Ciberseguridad · SentinelOne</h3>
 
 <p align="center">
