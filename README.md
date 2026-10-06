@@ -160,6 +160,12 @@
   <img src="assets/insignias/sentinelone/sales-professional.png" height="96" alt="SentinelOne Sales Professional"/>
 </p>
 
+<h3 align="center">🥷 Gestión y Soporte TI · NinjaOne</h3>
+
+<p align="center">
+  <img src="assets/insignias/ninjaone/certified-technician.png" height="96" alt="NinjaOne Certified Technician"/>
+</p>
+
 <h3 align="center">🔗 Enlaces de interés</h3>
 
 <table align="center">
