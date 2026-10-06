@@ -154,10 +154,10 @@
 <h3 align="center">🛡️ Ciberseguridad · SentinelOne</h3>
 
 <p align="center">
-  <img src="assets/insignias/sentinelone/partner-cloud-security.jpeg" height="96" alt="SentinelOne Cloud Security Partner"/>
-  <img src="assets/insignias/sentinelone/pre-sales-expert.jpeg" height="96" alt="SentinelOne Pre-Sales Expert"/>
-  <img src="assets/insignias/sentinelone/pre-sales-professional.jpeg" height="96" alt="SentinelOne Pre-Sales Professional"/>
-  <img src="assets/insignias/sentinelone/sales-professional.jpeg" height="96" alt="SentinelOne Sales Professional"/>
+  <img src="assets/insignias/sentinelone/partner-cloud-security.png" height="96" alt="SentinelOne Cloud Security Partner"/>
+  <img src="assets/insignias/sentinelone/pre-sales-expert.png" height="96" alt="SentinelOne Pre-Sales Expert"/>
+  <img src="assets/insignias/sentinelone/pre-sales-professional.png" height="96" alt="SentinelOne Pre-Sales Professional"/>
+  <img src="assets/insignias/sentinelone/sales-professional.png" height="96" alt="SentinelOne Sales Professional"/>
 </p>
 
 <h3 align="center">🔗 Enlaces de interés</h3>
